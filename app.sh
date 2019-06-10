@@ -1,6 +1,1 @@
-#!/bin/bash
-set -x #echo on
-
-ls $PWD
-set +x
-python -m src/com_csaa_claims_ai_assignment
+python com_csaa_claims_ai_assignment/__main__.py
