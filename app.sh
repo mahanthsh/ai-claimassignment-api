@@ -1,1 +1,1 @@
-python -m com_csaa_claims_ai_assignment
+python -m src/com_csaa_claims_ai_assignment
